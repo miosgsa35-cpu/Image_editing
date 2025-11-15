@@ -1,0 +1,5 @@
+{
+  "name": "Gemini 图像编辑器",
+  "description": "一个允许用户使用由 Gemini 2.5 Flash Image 模型驱动的文本提示来编辑图像的应用程序。",
+  "requestFramePermissions": []
+}
